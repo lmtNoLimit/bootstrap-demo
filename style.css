@@ -1,0 +1,17 @@
+#header {
+    background: #005199;
+    height: 60px;
+}
+#header a {
+    padding-right: 20px;
+}
+#contact {
+    background: #e5e5e5;
+}
+#footer {
+    padding: 20px 0 5px 0;
+    color: #fff;
+}
+textarea {
+    resize: none;
+}
